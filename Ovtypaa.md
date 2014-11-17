@@ -31,3 +31,28 @@ As the unit moves on and more energy device transfers are introduced, students w
 
 ### project time:
 - 45 minutes
+
+## Engage - 5 minutes
+ 
+1. Explain a Rube Goldberg machine to students. 
+	- A Rube Goldberg is a contraption or device that is purposely over-engineered to perform a very simple task in a very complicated fashion, usually including a chain reaction (i.e. move a marble through a series of events to reach a destination).
+2. Show students [OK GO music video](https://www.youtube.com/watch?v=qybUFnY7Y8w) to provide an example of a Rube Goldberg machine.
+
+## Explain - 5 minutes
+Begin the lesson with a brief introduction of energy and energy transfer.
+
+1. Explain to students the concept of energy:
+	
+    - Law of Conservation of Energy: The total amount of energy in a system is conserved, although energy can be changed from one form to another or transferred from one object to another. 
+		- Energy cannot be created or destroyed 
+	- Mechanical Energy: Energy that is possessed by an object due to its motion or position
+		- Kinetic energy: Energy of motion
+		- Potential energy: Stored energy of position 
+			- In this lesson, focus on Mechanical Energy and the transfer of potential to kinetic energy
+			- Demonstrate this by having two ramps present at different heights. Ask students which has more energy (the higher car), and which car will travel the furthest.
+	- Mechanical device: a device or piece of the Rube Goldberg that can transfer from potential to kinetic energy (i.e. moving marble, falling dominos, releasing a spring, moving a car, etc.)
+		- Electrical, chemical, thermal, and optical devices will later be introduced into the Rube Goldberg machines. 
+
+
+
+
