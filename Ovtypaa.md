@@ -53,6 +53,15 @@ Begin the lesson with a brief introduction of energy and energy transfer.
 	- Mechanical device: a device or piece of the Rube Goldberg that can transfer from potential to kinetic energy (i.e. moving marble, falling dominos, releasing a spring, moving a car, etc.)
 		- Electrical, chemical, thermal, and optical devices will later be introduced into the Rube Goldberg machines. 
 
+## Explore - 30 minutes
+Challenge: Students are to construct a Rube Goldberg machine using all of the materials listed previously that will successfully move a lego car forward using energy transfer
+  
+- Students must keep their Rube Goldberg mechanical devices within the cardboard set (the car may be outside of the box)
+- Students must use all materials provided
+- The group that successfully pushes the car forward with the longest running time wins(timing is stopped once car stops moving).
+
+## Evaluate - 5 minutes
+Test each group’s machine and measure whose car travels the further distance on the floor!
 
 
 
