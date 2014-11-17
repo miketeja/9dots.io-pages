@@ -5,7 +5,7 @@ published: false
 type: lesson
 title: "Rube Goldberg Machines: Day 1"
 objective: SWBAT construct a Rube Goldberg machine that displays mechanical energy transfer
-blurb: Construct a Rube Goldberg machine that completes a task
+blurb: Construct a Rube Goldberg machine that displays mechanical energy transfer
 id: "miketeja-Ovtypaa"
 
 ---
@@ -62,6 +62,3 @@ Challenge: Students are to construct a Rube Goldberg machine using all of the ma
 
 ## Evaluate - 5 minutes
 Test each group’s machine and measure whose car travels the further distance on the floor!
-
-
-
