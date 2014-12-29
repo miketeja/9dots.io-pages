@@ -8,6 +8,8 @@ objective:
   - Construct a Rube Goldberg machine that displays mechanical energy transfer
 blurb: Students learn about energy transfer by designing and building a Rube Goldberg machine using simple household objects in order to perform a simple task.
 id: "miketeja-Ovtypaa"
+image: "http://uploads.9dots.io/OzrZzqX_md.jpg"
+fullImage: "http://uploads.9dots.io/OzrZzqX_lrg.jpg"
 
 ---
 
@@ -60,6 +62,6 @@ Challenge: Students are to construct a Rube Goldberg machine using all of the ma
 - Students must keep their Rube Goldberg mechanical devices within the cardboard set (the car may be outside of the box)
 - Students must use all materials provided
 - The group that successfully pushes the car forward with the longest running time wins(timing is stopped once car stops moving).
-
+![](http://uploads.9dots.io/OzraJoh_md.jpg) 
 ## Evaluate - 5 minutes
 Test each group’s machine and measure whose car travels the further distance on the floor!
