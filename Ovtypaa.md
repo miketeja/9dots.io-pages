@@ -16,8 +16,6 @@ fullImage: "http://uploads.9dots.io/OzrZzqX_lrg.jpg"
 ## Overview
 Students are challenged to construct a Rube Goldberg machine using limited resources, with the task of pushing a Lego car forward using a marble. Students focus on mechanical energy transfer using various mechanical devices. 
 
-As the unit moves on and more energy device transfers are introduced, students will utilize Little Bits inputs and outputs to add to the complexity of their Rube Goldberg machines. 
-
 ## Setup
 ### materials:
 - Per Group:
