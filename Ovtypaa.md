@@ -62,4 +62,4 @@ Challenge: Students are to construct a Rube Goldberg machine using all of the ma
 - The group that successfully pushes the car forward with the longest running time wins(timing is stopped once car stops moving).
 ![](http://uploads.9dots.io/OzraJoh_md.jpg) 
 ## Evaluate - 5 minutes
-Test each group’s machine and measure whose car travels the further distance on the floor!
+Test each group’s machine and measure whose car travels the further distance!
