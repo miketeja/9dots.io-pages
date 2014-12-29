@@ -4,8 +4,9 @@ views: 0
 published: false
 type: lesson
 title: "Rube Goldberg Machines: Day 1"
-objective: SWBAT construct a Rube Goldberg machine that displays mechanical energy transfer
-blurb: Construct a Rube Goldberg machine that displays mechanical energy transfer
+objective: 
+  - Construct a Rube Goldberg machine that displays mechanical energy transfer
+blurb: Students learn about energy transfer by designing and building a Rube Goldberg machine using simple household objects in order to perform a simple task.
 id: "miketeja-Ovtypaa"
 
 ---
